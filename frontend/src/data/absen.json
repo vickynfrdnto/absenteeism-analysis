@@ -1,0 +1,25 @@
+{
+  "cabang": {
+    "Jakarta": 238,
+    "Surabaya": 168
+  },
+  "departemen": {
+    "Kasir": 286,
+    "OB": 120
+  },
+  "shift": {
+    "Shift 1": 137,
+    "Shift 2": 89,
+    "Unknown": 180
+  },
+  "lembur": {
+    "mean": 52.6,
+    "max": 288,
+    "min": 0
+  },
+  "pulangCepat": {
+    "mean": 1.6,
+    "max": 281,
+    "min": 0
+  }
+}
